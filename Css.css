@@ -1,0 +1,65 @@
+body {
+	background-image:url(images/fon1.jpg);
+}
+
+.header {
+	background-image:url(images/header.jpg);
+	width:1880px;
+	height:150px;
+	border:1px solid#2C211D;
+	margin-bottom:10px;
+	border-radius:10px;
+	box-shadow: 4px 4px 10px #000000
+}
+
+.sidebar {
+	background-image:url(images/sidebar.jpg);
+	width:350px;
+	height:700px;
+	border:1px solid#2C211D;
+	float:left;
+	border-radius:10px;
+	box-shadow: 4px 4px 10px #000000
+	
+	
+}
+
+.section {
+	background-image:url(images/section.jpg);
+	width:520px;
+	height:580px;
+	border:2px solid#2C211D;
+	float:left;
+	border-radius:10px;
+	margin:30px;
+	
+	
+	
+}
+
+
+.content {
+	background-image:url(images/content.jpg);
+	width:1520px;
+	height:700px;
+	border:1px solid#2C211D;
+	margin-left:360px;
+	border-radius:10px;
+	box-shadow: 4px 4px 10px #000000
+	
+}
+
+
+.footer {
+	background-image:url(images/footer.jpg);
+	width:1880px;
+	height:130px;
+	border:1px solid#2C211D;
+	margin-top:10px;
+	border-radius:10px;
+	box-shadow: 4px 4px 10px #000000
+}
+
+
+
+
